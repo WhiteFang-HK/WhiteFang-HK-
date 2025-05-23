@@ -1,6 +1,6 @@
 # Hi 👋, I'm Harshit Kaushik
 
-🎯 A passionate Data SCientest, AI Prompt Engineer & Full Stack Developer from India 🇮🇳
+🎯 A passionate Data Scientist, AI Prompt Engineer & Full Stack Developer from India 🇮🇳
 
 ---
 
